@@ -1,0 +1,60 @@
+{
+	"news": [
+		{
+			"linkImage": "https://s2.glbimg.com/IIURYXLr4Se_s1bk6sOTgWubrSA=/0x0:562x316/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/A/E/UpCUv3RAePeyUXceJdbw/0703-invasao-russa-12dias-selo2.jpg",
+			"subtitle": "Invasão e conflito",
+			"title": "MAPAS: veja o avanço russo em 12 dias de guerra na Ucrânia",
+			"subtItens": "Saiba os principais acontecimentos do 12º dia do conflito",
+			"metadata": "Há 5 horas - Mundo"
+		},
+		{
+			"linkImage": "https://s2.glbimg.com/R8g4yNaXL2DDqXcKV46Tl2Fzo7o=/0x0:1920x1080/540x304/smart/filters:max_age(3600)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/8/t/fPjf35T7ywkHAutJgRvg/pgm-globonews-limpo-ao-vivo-20220307-1559-frame-117659.jpeg",
+			"subtitle": "",
+			"title": "AGORA NA GLOBONEWS: acompanhe as últimas notícias da guerra ",
+			"subtItens": "Saiba os principais acontecimentos do 12º dia do conflito",
+			"metadata": "Há 5 horas - GloboNews"
+		},
+		{
+			"linkImage": "https://s2.glbimg.com/okR4JPsM_HMNgi_vSC8TRZ6sJO0=/121x147:1104x700/540x304/smart/filters:max_age(3600)/https://s2.glbimg.com/lgak_EXG85Zx_7_DFEbkSxtnhrk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/y/g/MFpZ8xSbGZDUA4XXzptA/32223543831-190fb83d27-k.jpg",
+			"subtitle": "Blog da Andréia Sadi",
+			"title": "Alckmin acerta filiação com PSB para ser vice de Lula",
+			"subtItens": "Saiba os principais acontecimentos do 12º dia do conflito",
+			"metadata": "Há 5 horas - Blog da Andréia Sadi"
+		},
+		{
+			"linkImage": "https://s2.glbimg.com/cDw3fWRM3Rdd3jKFHxDEbUILCs8=/0x49:1200x724/540x304/smart/filters:max_age(3600)/https://s2.glbimg.com/Y7P9MWwCwrbyuaXuxtSQSFahE5k=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/A/b/oPoDznQMirzdhlDD75KA/pashalee.jpg",
+			"subtitle": "Guerra na Ucrânia",
+			"title": "Ator ucraniano que se juntou ao exército morre durante combate",
+			"subtItens": "Saiba os principais acontecimentos do 12º dia do conflito",
+			"metadata": "Há 2 horas - Pop & Arte"
+		},
+		{
+			"linkImage": "https://s2.glbimg.com/gIxgXjy7rY21l_R-ht6t11oYLFs=/0x0:1200x675/540x304/smart/filters:max_age(3600)/https://s2.glbimg.com/epQWYOfaZ4ICgK5lHppCTnY2uT0=/1200x/smart/filters:cover():strip_icc()/s04.video.glbimg.com/x720/10365023.jpg",
+			"subtitle": "",
+			"title": "Avião da FAB decola para resgatar brasileiros que estavam na Ucrânia",
+			"subtItens": "Saiba os principais acontecimentos do 12º dia do conflito",
+			"metadata": "Há 2 horas - Distrito Federal"
+		},
+		{
+			"linkImage": "https://s2.glbimg.com/Qg173miECPVOGv7QDnkPFuH1Uy0=/0x0:1200x675/540x304/smart/filters:max_age(3600)/https://s2.glbimg.com/bCk4JcUyirMQYX-XFnFR3GMM2ro=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/L/d/jKXEVfQPSqXCsSjJHwrg/david.jpg",
+			"subtitle": "Companhia de balé russa",
+			"title": "Bailarino brasileiro do Bolshoi se demite em apoio aos ucranianos",
+			"subtItens": "Saiba os principais acontecimentos do 12º dia do conflito",
+			"metadata": "Há 56 minutos - Região dos Lagos"
+		},
+		{
+			"linkImage": "https://s2.glbimg.com/tHprGuWpZSHaSzJ50acH-wtmRRY=/0x0:1280x720/540x304/smart/filters:max_age(3600)/http://s01.video.glbimg.com/x720/10299062.jpg",
+			"subtitle": "Valores a receber",
+			"title": "\nDinheiro esquecido em bancos: pedidos de resgate começam hoje",
+			"subtItens": "Saiba os principais acontecimentos do 12º dia do conflito",
+			"metadata": "Há 11 horas - Economia"
+		},
+		{
+			"linkImage": "https://s2.glbimg.com/vZF27iUeDefJDVABbXnFZ55sYD0=/0x0:1280x720/540x304/smart/filters:max_age(3600)/http://s01.video.glbimg.com/x720/10300354.jpg",
+			"subtitle": "",
+			"title": "10 dicas para se proteger de golpes na hora de sacar o 'dinheiro esquecido'",
+			"subtItens": "Saiba os principais acontecimentos do 12º dia do conflito",
+			"metadata": "Há 6 horas - Tecnologia"
+		}
+	]
+}
